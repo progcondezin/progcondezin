@@ -1,0 +1,4 @@
+- 👋 Olá, me chamo gabriel pacheco condezin
+- 👀  Meu foco é em análise de dados em geral, buscando evoluir em python, todo pacote office e HTML, CSS e Java script
+- 💞️ Procuro coloborar em criar códigos e qualquer tipo de formulas que for necessário
+- 📫 Meu e-mail é gabriel.condezin@gmail.com
