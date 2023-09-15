@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Gabriel
-- 👀 Meu foco é em programação. 
-- 💞️ Procuro coloborar em criar códigos e qualquer tipo de formulas que for necessário
+- 👋 Olá, me chamo Gabriel! Como vai? 
+- 👀 Meu foco é em programação e analises com ênfase em banco de dados. 
+- 💞️ Procuro coloborar em criar códigos e qualquer tipo de fórmulas que for necessário
 - 📫 Meu e-mail é gabriel.condezin@gmail.com
